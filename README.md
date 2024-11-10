@@ -1,6 +1,6 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
-## ANU VARSHINI M B
-## 212223240010
+### Name: Anu Varshini M B
+### Register Number: 212223240010
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
